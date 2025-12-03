@@ -10,8 +10,5 @@ Bahasa & Teknologi: PHP, MySQL, HTML, CSS, Bootstrap, Laravel
 💡 Minat dan Aktivitas Lain
 Meskipun fokus pada dunia coding, saya memiliki minat yang kuat dalam:
 
-Seni Musik: Saya menikmati eksplorasi di bidang seni musik. 🎼 (Musik sering kali membantu fokus dan kreativitas dalam coding!)
+Seni Musik: Saya menikmati eksplorasi di bidang seni musik. 
 Aktivitas Spiritual: Saya aktif dalam kegiatan majelis (keagamaan), yang menjadi sumber inspirasi dan keseimbangan dalam hidup. 👳🏻‍♀️
-
-
-
